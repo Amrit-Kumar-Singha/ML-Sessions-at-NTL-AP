@@ -9,5 +9,7 @@ This program will help you to understand the basic working of a KNN Machine Lear
 2. kfold :
 This program will help you understand and visualize hyperparameter tuning of an KNN algorithm i.e how to determing the optimal hyperparameter value(k value) of an KNN algorithm and visualizing prediction error associated with high k value.The following program use 10 folds to tune k value. 
 
+3. Deep_Dive_Into_KNN: 
+This is a document file where you will get all the important interview questions and also some links that will help you to enrich your knowledge in K-NN.
 
  
