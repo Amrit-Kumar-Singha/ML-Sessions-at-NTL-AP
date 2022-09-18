@@ -27,5 +27,5 @@ model.fit(X_train, y_train)
 
 [Interview questions on Logistic regression](https://github.com/Amrit-Kumar-Singha/ML-Sessions-at-NTL-AP/blob/main/session2/Logistic%20Regression.docx)
 
----
+
 
