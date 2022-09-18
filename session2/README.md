@@ -11,5 +11,5 @@
      a)Geometric intutions
   4. Linear Regression
 ---
-[Interview questions on Logistic regression]('https://github.com/Amrit-Kumar-Singha/ML-Sessions-at-NTL-AP/blob/main/session2/Logistic%20Regression.docx')
+[Interview questions on Logistic regression](https://github.com/Amrit-Kumar-Singha/ML-Sessions-at-NTL-AP/blob/main/session2/Logistic%20Regression.docx)
 
