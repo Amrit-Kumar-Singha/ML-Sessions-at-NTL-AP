@@ -20,11 +20,11 @@
 ---
 
 Code snippet of Logistic regression
-'''python
+```python
 from sklearn.grid_search import GridSearchCV
 from sklearn.linear_model import LogisticRegression
 
 model = GridSearchCV(LogisticRegression(), tuned_parameters, scoring = 'f1', cv=5)
 model.fit(X_train, y_train)
-'''
+```
 
