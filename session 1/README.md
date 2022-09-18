@@ -1,6 +1,10 @@
 # ML Sessions at NTL AP
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/105512577/189515023-ced1d37e-02a2-4120-87f3-b2f7fe99c3ec.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
+
 # DAY-1 ON KNN
-![Screenshot 2022-09-11 114639](https://user-images.githubusercontent.com/105512577/189515023-ced1d37e-02a2-4120-87f3-b2f7fe99c3ec.jpg)
+
 
 In the following file:
 1. knn_with_simple_code :
