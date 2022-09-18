@@ -15,10 +15,6 @@
      * Geometric Intutions
      * Optimal equation of Linear Regressiom
 ---
-[Interview questions on Logistic regression](https://github.com/Amrit-Kumar-Singha/ML-Sessions-at-NTL-AP/blob/main/session2/Logistic%20Regression.docx)
-
----
-
 Code snippet of Logistic regression
 ```python
 from sklearn.grid_search import GridSearchCV
@@ -27,4 +23,9 @@ from sklearn.linear_model import LogisticRegression
 model = GridSearchCV(LogisticRegression(), tuned_parameters, scoring = 'f1', cv=5)
 model.fit(X_train, y_train)
 ```
+---
+
+[Interview questions on Logistic regression](https://github.com/Amrit-Kumar-Singha/ML-Sessions-at-NTL-AP/blob/main/session2/Logistic%20Regression.docx)
+
+---
 
